@@ -1,0 +1,10 @@
+com/campus/user/entity/User.class
+com/campus/user/controller/UserController$LoginRequest.class
+com/campus/user/config/Knife4jConfig.class
+com/campus/user/mapper/UserMapper.class
+com/campus/user/config/MyMetaObjectHandler.class
+com/campus/user/service/UserService.class
+com/campus/user/CampusApplication.class
+com/campus/user/controller/UserController.class
+com/campus/user/service/impl/UserServiceImpl.class
+com/campus/user/controller/UserController$RegisterRequest.class

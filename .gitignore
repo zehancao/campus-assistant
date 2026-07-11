@@ -1,0 +1,14 @@
+.DS_Store
+*.log
+.env
+.env.*
+node_modules/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+*.iml
+target/
+build/
+dist/
+*.class
